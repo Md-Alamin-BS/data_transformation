@@ -1,3 +1,6 @@
+# Ignore the .gitignore file itself
+# .gitignore
+
 # Ignore Python bytecode files
 __pycache__/
 *.py[cod]
@@ -17,4 +20,5 @@ csv_to_excel_with_regx_value,positives,comment.py
 
 # Ignore all Excel files in a subdirectory
 excel_files/summary_metrics(1).xlsx
+excel_files/file_output_18-12-2024.xlsx
 excel_files/file_output_18-12-2024_with_regx_value_positives_comments.xlsx
