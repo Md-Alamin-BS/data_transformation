@@ -1,7 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "excel_files"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-}
