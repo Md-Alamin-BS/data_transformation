@@ -6,7 +6,7 @@ date_suffix = datetime.now().strftime('%d-%m-%Y')
 
 # File paths
 input_file = 'excel_files/input_file.csv'
-output_file = f'excel_files/file_output_{date_suffix}_with_regx_value.xlsx'
+output_file = f'excel_files/output_excel_{date_suffix}_with_regx_value.xlsx'
 
 # Hard-coded RegX values for each metric and tag
 precision_regx_values = {

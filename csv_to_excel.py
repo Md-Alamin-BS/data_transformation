@@ -6,7 +6,7 @@ date_suffix = datetime.now().strftime('%d-%m-%Y')
 
 # File paths
 input_file = 'excel_files/input_file.csv'
-output_file = f'excel_files/file_output_{date_suffix}.xlsx'
+output_file = output_file = f'excel_files/output_excel_{date_suffix}.xlsx'
 
 def read_input_file(file_path):
     """Dynamically read the input file based on its extension."""
