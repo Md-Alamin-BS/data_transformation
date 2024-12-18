@@ -6,14 +6,15 @@ __pycache__/
 venv/
 .env/
 
-# Ignoer VS Code settings
+# Ignore VS Code settings
 .vscode/
 
 # Ignore specific Python file
-csv_to_excel_with_regx_value, positives, comment .py
+csv_to_excel_with_regx_value,positives,comment.py
 
 # Ignore specific Python file in a subdirectory
+# Add specific files here if needed
 
-
-# Ignore all excel files in a subdirectory
-excel_files/summary_metrics (1).xlsx
+# Ignore all Excel files in a subdirectory
+excel_files/summary_metrics(1).xlsx
+excel_files/file_output_18-12-2024_with_regx_value_positives_comments.xlsx
