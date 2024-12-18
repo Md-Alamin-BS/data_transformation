@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignoer VS Code settings
+.vscode/
+
+# Ignore specific Python file
+csv_to_excel_with_regx_value, positives, comment .py
+
+# Ignore specific Python file in a subdirectory
+
+
+# Ignore all excel files in a subdirectory
+excel_files/summary_metrics (1).xlsx
